@@ -101,7 +101,7 @@ import net.myrrix.common.random.RandomUtils;
  * @author Sean Owen
  * @since 1.0
  */
-public final class ClientRecommender implements MyrrixRecommender {
+public class ClientRecommender implements MyrrixRecommender {
 
   private static final Logger log = LoggerFactory.getLogger(ClientRecommender.class);
 
